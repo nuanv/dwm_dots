@@ -1,6 +1,6 @@
-# Suckless 
+# DWM Suckless Config 
 
-## Oxo
+## Oxocarbon
 ![oxo](https://github.com/niharPat/dwm_dots/blob/main/assets/oxo_ss.png?raw=true)
 
 ## Biscuit
