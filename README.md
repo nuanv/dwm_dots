@@ -1,9 +1,12 @@
-# DWM Suckless
+DWM Suckless Config
+-------------------
 
-## Oxocarbon
+Oxocarbon
+---------
 ![oxo](https://github.com/niharPat/dwm_dots/blob/main/assets/oxo_ss.png?raw=true)
 
-## Biscuit
+Biscuit
+-------
 ![biscuit](https://github.com/niharPat/dwm_dots/blob/main/assets/biscuit_ss.png?raw=true)
 
 
